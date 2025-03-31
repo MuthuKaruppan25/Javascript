@@ -126,10 +126,7 @@ function deleteTask(index) {
 ---
 
 ## Conclusion
-This project is a great example of a beginner-friendly **JavaScript project** that demonstrates core **DOM manipulation** and **localStorage** concepts. You can extend this further by adding:
-- **Drag and Drop** for task reordering.
-- **Due Dates and Reminders**.
-- **Priority-based task categorization**.
+This project is a great example of a beginner-friendly **JavaScript project** that demonstrates core **DOM manipulation** and **localStorage** concepts.
 
-Happy Coding! 🚀
+
 
