@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#result{
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
+}
+.quiz-container{
+    width: 60%;
+    height: 600px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.4);
+    border: 2px solid rgb(159, 159, 159);
+    border-radius: 20px;
+    
+}
+.quiz-section{
+    font-size: 35px;
+    padding: 40px;
+    text-align: center;
+}
+.options-section{
+    margin-left: 10px;
+    margin-right: 20px;
+    list-style: none;
+    padding: 10px;
+}
+.options-section li{  
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 20px 20px ;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.options-section li.selected {
+    background-color: blue;
+    border-color: blueviolet;
+    color: white;
+}
+.button-section{
+    display: flex;
+    justify-content: space-around;
+}
+.button-section .prev{
+    padding: 20px 35px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    background-color: rgb(219, 219, 219);
+}
+.button-section .next{
+    padding: 20px 35px;
+    border-radius: 5px;
+    border: 1px solid blueviolet;
+    background-color: blue;
+    color: white;
+}
+.button-section .submit{
+    display: none;
+    padding: 20px 35px;
+    border-radius: 5px;
+    border: 1px solid blueviolet;
+    background-color: blue;
+    color: white;
+}
+.button-section .submit.active{
+    display: block;
+}
+.button-section .next.inactive{
+    display: none;
+}
+.button-section .prev.inactive {
+    pointer-events: none;
+    opacity: 0.5; 
+    cursor: not-allowed; 
+}

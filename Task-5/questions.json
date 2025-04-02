@@ -1,0 +1,52 @@
+[
+    {
+      "question": "Which company developed React?",
+      "options": ["Google", "Facebook", "Microsoft", "Apple"],
+      "correct": 1
+    },
+    {
+      "question": "What is the primary purpose of React?",
+      "options": ["To build UI components", "To manage databases", "To handle server-side logic", "To style web pages"],
+      "correct": 0
+    },
+    {
+      "question": "What is JSX in React?",
+      "options": ["JavaScript XML", "JavaScript Extension", "Java Syntax Extension", "JSON XML"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is used to manage state in a React functional component?",
+      "options": ["this.state", "useState", "setState", "storeState"],
+      "correct": 1
+    },
+    {
+      "question": "Which lifecycle method is used for side effects in React functional components?",
+      "options": ["componentDidMount", "useEffect", "componentWillUpdate", "useCallback"],
+      "correct": 1
+    },
+    {
+      "question": "What does React use to efficiently update the DOM?",
+      "options": ["Shadow DOM", "Virtual DOM", "Real DOM", "React DOM"],
+      "correct": 1
+    },
+    {
+      "question": "Which hook is used to create a memoized value in React?",
+      "options": ["useMemo", "useCallback", "useEffect", "useReducer"],
+      "correct": 0
+    },
+    {
+      "question": "Which command is used to create a new React app?",
+      "options": ["npx create-react-app my-app", "npm start react", "react-new-app my-app", "npm build react"],
+      "correct": 0
+    },
+    {
+      "question": "How do you pass data from a parent component to a child component in React?",
+      "options": ["Using state", "Using props", "Using Redux", "Using context"],
+      "correct": 1
+    },
+    {
+      "question": "Which React hook is used to manage complex state logic?",
+      "options": ["useEffect", "useState", "useReducer", "useMemo"],
+      "correct": 2
+    }
+]
