@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Casual Shirt",
+    "description": "A comfortable, casual shirt made of cotton.",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Shirts"
+  },
+  {
+    "id": 2,
+    "name": "Men's Formal Shirt",
+    "description": "A crisp, formal shirt for professional settings.",
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/1311590/pexels-photo-1311590.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Shirts"
+  },
+  {
+    "id": 3,
+    "name": "Women's Blouse",
+    "description": "A sophisticated blouse that pairs well with skirts or jeans.",
+    "price": 24.99,
+    "image": "https://images.pexels.com/photos/1192335/pexels-photo-1192335.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Shirts"
+  },
+  {
+    "id": 4,
+    "name": "Men's Polo Shirt",
+    "description": "A versatile polo shirt for both casual and semi-casual wear.",
+    "price": 22.99,
+    "image": "https://images.pexels.com/photos/16170/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Shirts"
+  },
+  {
+    "id": 5,
+    "name": "Women's Tunic Top",
+    "description": "A relaxed, stylish tunic top made of soft fabric.",
+    "price": 34.99,
+    "image": "https://images.pexels.com/photos/981619/pexels-photo-981619.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Shirts"
+  },
+  {
+    "id": 6,
+    "name": "Men's Summer T-shirt",
+    "description": "A light and breathable t-shirt perfect for hot weather.",
+    "price": 14.99,
+    "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "T-shirts"
+  },
+  {
+    "id": 7,
+    "name": "Women's Graphic T-shirt",
+    "description": "A fun, colorful graphic t-shirt to express your style.",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/1311590/pexels-photo-1311590.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "T-shirts"
+  },
+  {
+    "id": 8,
+    "name": "Men's Sports T-shirt",
+    "description": "A moisture-wicking sports t-shirt ideal for exercise.",
+    "price": 21.99,
+    "image": "https://images.pexels.com/photos/1192335/pexels-photo-1192335.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "T-shirts"
+  },
+  {
+    "id": 9,
+    "name": "Women's Sleeveless T-shirt",
+    "description": "A sleeveless t-shirt perfect for layering or warm weather.",
+    "price": 18.99,
+    "image": "https://images.pexels.com/photos/16170/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+    "category": "T-shirts"
+  },
+  {
+    "id": 10,
+    "name": "Men's V-neck T-shirt",
+    "description": "A classic V-neck t-shirt in a range of colors.",
+    "price": 16.99,
+    "image": "https://images.pexels.com/photos/981619/pexels-photo-981619.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "T-shirts"
+  },
+  {
+    "id": 11,
+    "name": "Men's Classic Jeans",
+    "description": "Durable denim jeans with a relaxed fit.",
+    "price": 39.99,
+    "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Pants"
+  },
+  {
+    "id": 12,
+    "name": "Women's Skinny Jeans",
+    "description": "Stylish and comfortable skinny jeans for a sleek look.",
+    "price": 35.99,
+    "image": "https://images.pexels.com/photos/1311590/pexels-photo-1311590.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Pants"
+  },
+  {
+    "id": 13,
+    "name": "Men's Slim Fit Jeans",
+    "description": "Slim fit jeans with a modern design for everyday wear.",
+    "price": 45.99,
+    "image": "https://images.pexels.com/photos/1192335/pexels-photo-1192335.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Pants"
+  },
+  {
+    "id": 14,
+    "name": "Women's Bootcut Jeans",
+    "description": "Bootcut jeans with a classic style and a flattering fit.",
+    "price": 42.99,
+    "image": "https://images.pexels.com/photos/16170/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Pants"
+  },
+  {
+    "id": 15,
+    "name": "Men's Cargo Pants",
+    "description": "Durable cargo pants with multiple pockets for utility.",
+    "price": 49.99,
+    "image": "https://images.pexels.com/photos/981619/pexels-photo-981619.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Pants"
+  },
+  
+  {
+    "id": 16,
+    "name": "Men's Leather Jacket",
+    "description": "A premium leather jacket perfect for cold weather.",
+    "price": 89.99,
+    "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Jackets"
+  },
+  {
+    "id": 17,
+    "name": "Women's Wool Coat",
+    "description": "A stylish wool coat that keeps you warm during winter.",
+    "price": 79.99,
+    "image": "https://images.pexels.com/photos/1311590/pexels-photo-1311590.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Jackets"
+  },
+  {
+    "id": 18,
+    "name": "Men's Denim Jacket",
+    "description": "A timeless denim jacket for casual wear.",
+    "price": 69.99,
+    "image": "https://images.pexels.com/photos/1192335/pexels-photo-1192335.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Jackets"
+  },
+  {
+    "id": 19,
+    "name": "Women's Leather Jacket",
+    "description": "A sleek leather jacket that combines style and warmth.",
+    "price": 99.99,
+    "image": "https://images.pexels.com/photos/16170/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Jackets"
+  },
+  {
+    "id": 20,
+    "name": "Men's Bomber Jacket",
+    "description": "A stylish bomber jacket for a classic look.",
+    "price": 79.99,
+    "image": "https://images.pexels.com/photos/981619/pexels-photo-981619.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Jackets"
+  },
+  
+  {
+    "id": 21,
+    "name": "Men's Hoodie",
+    "description": "A cozy hoodie perfect for casual wear or lounging.",
+    "price": 34.99,
+    "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Hoodies"
+  },
+  {
+    "id": 22,
+    "name": "Women's Zip-up Hoodie",
+    "description": "A warm and comfortable zip-up hoodie for everyday wear.",
+    "price": 39.99,
+    "image": "https://images.pexels.com/photos/1311590/pexels-photo-1311590.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Hoodies"
+  },
+  {
+    "id": 23,
+    "name": "Men's Pullover Hoodie",
+    "description": "A classic pullover hoodie with a cozy feel.",
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/1192335/pexels-photo-1192335.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Hoodies"
+  },
+  {
+    "id": 24,
+    "name": "Women's Oversized Hoodie",
+    "description": "An oversized hoodie for maximum comfort and warmth.",
+    "price": 42.99,
+    "image": "https://images.pexels.com/photos/16170/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Hoodies"
+  },
+  {
+    "id": 25,
+    "name": "Unisex Fleece Hoodie",
+    "description": "A soft fleece hoodie suitable for both men and women.",
+    "price": 32.99,
+    "image": "https://images.pexels.com/photos/981619/pexels-photo-981619.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "category": "Hoodies"
+  }
+]

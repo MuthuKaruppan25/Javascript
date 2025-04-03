@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header class="topnav">
+      <img src="assets/logo-01.svg" alt="Logo" class="logo" />
+      
+      <button class="menu-toggle" id="menu-toggle">
+        <i class="fas fa-bars"></i>
+      </button>
+
+      <div class="search-content">
+        <div class="search-box">
+          <input type="text" placeholder="Search..." />
+          <i class="fas fa-search search-icon"></i>
+        </div>
+        <div class="dropdown">
+          <a href="#" class="dropdown-btn"
+            >Categories <i class="fas fa-chevron-right" id="arrow"></i
+          ></a>
+          <div class="dropdown-content">
+            <a href="#">Shirts</a>
+            <a href="#">T-shirts</a>
+            <a href="#">Pants</a>
+            <a href="#">Jackets</a>
+            <a href="#">Hoodies</a>
+          </div>
+        </div>
+        <div class="">
+            <a href="#cart" class="dropdown-btn cart-button-nav" 
+            >Cart </a>
+        </div>
+
+      </div>
+      
+    </header>
+    <main>
+        <section id="home-page" class="page">
+                <div class="main-body">
+        <h2>Shop Clothes from #1 Online  Store</h2>
+    </div>
+    <div class="section-header">
+        <h2>Products</h2>
+    </div>
+    <div id="product-list" class="product-list">
+    </div>
+        </section>
+        <section id="cart-page" class="page">
+            <div class="cart-header">
+                <h1>Cart</h1>
+            </div>
+            <div class="line">
+
+            </div>
+            <div class="cart-title">
+                <i class="fas fa-check-circle"></i> Cart Summary
+            </div>    
+            <table class="cart-table">
+                <thead>
+                  <tr>
+                    <th>Product</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Subtotal</th>
+                  </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+              </table>
+              <div class="card-total">
+                    <div class="card-header">
+                        <h2>Cart Total</h2>
+                    </div>
+                    <div class="totals">
+
+                    </div>
+                    <div class="checkout-button">
+                        <button class="checkout">Checkout</button>
+                    </div>
+              </div>
+                      
+        </section>
+    </main>
+
+    <script type="module" src="js/script.js"></script>
+  </body>
+</html>
